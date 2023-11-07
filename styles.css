@@ -1,0 +1,61 @@
+body{
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: rgb(214, 46, 214);
+    
+}
+
+a{
+    color: green;
+}
+
+a:hover{
+    color:blue;
+}
+
+h1{
+    display: block;
+    color: red;
+    background-color: rgb(214, 226, 43);
+    text-align: center;
+    margin: 0 auto;
+}
+
+h2{
+    color: rgb(214, 226, 43);
+    margin-bottom: 10px;
+}
+
+img{
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.part{
+    display: block;
+    margin-top: 40px;
+}
+
+.description{
+
+}
+
+.ingredients{
+
+}
+
+.steps{
+    margin-bottom: 40px;
+
+}
+
+.ing{
+    border: 5px solid black;
+    background: rgba(214, 226, 43, 0.3);
+    padding: 5px;
+}
+
+.navbar{
+    font-weight: 600;
+}
